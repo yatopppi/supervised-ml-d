@@ -5,3 +5,4 @@ __pycache__/
 kaggle.json
 .env
 Photos/
+.venv/
